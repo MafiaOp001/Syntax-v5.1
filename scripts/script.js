@@ -37,7 +37,7 @@ new Vue({
           artist: "Gravero",
           cover: "img/4.jpg",
           source: "mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
+          url: "https://youtu.be/s-bZD3O3P80",
           favorited: false
         },
         {
